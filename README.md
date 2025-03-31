@@ -1,5 +1,8 @@
 # Assignment1
 
+# MEALS CODE
+https://github.com/ST10488465/Assignment1.git
+
 
 
 The Meal Suggestion App's goal is to provide individualized meal suggestions according to the time of day. By recommending breakfast, lunch, mid day snack, dinner, and dessert options based on the user's schedule, dietary preferences, and possibly even nutritional needs, this software seeks to maximize daily meal planning. To offer a large selection of meal recommendations, the app can be connected with other databases or APIs. Additionally, GitHub and GitHub Actions can be used to effectively manage the app's development, deployment, and maintenance.
